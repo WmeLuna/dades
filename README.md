@@ -7,6 +7,7 @@ powershell iex ((New-Object System.Net.WebClient).DownloadString('https://wmelun
 https://womginx.wmeluna.repl.co/   
 https://lunadisco.herokuapp.com/   
 https://lunaunlock.herokuapp.com/   
-### scripts
+### HW scripts
 edgenuity: ```https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js```   
 commonlit: ```https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js```
+cengage: ```https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js```
