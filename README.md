@@ -1,4 +1,4 @@
-# Dadeschools all in one   
+# Dadeschools all-in-one   
 ### brave install
 ```cmd
 powershell iex ((New-Object System.Net.WebClient).DownloadString('https://wmeluna.com/sc/brave.ps1'))
