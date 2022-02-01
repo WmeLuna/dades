@@ -8,6 +8,7 @@ https://womginx.wmeluna.repl.co/
 https://lunadisco.herokuapp.com/   
 https://lunaunlock.herokuapp.com/   
 ### HW scripts
-edgenuity: https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js   
-commonlit: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js   
-cengage: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js
+AutoUnblocker: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/AutoUnblocker.user.js   
+Edgenuity: https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js   
+CommonLit: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js   
+Cengage: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js
