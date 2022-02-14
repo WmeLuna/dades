@@ -12,3 +12,6 @@ AutoUnblocker: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/AutoUnblo
 Edgenuity: https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js   
 CommonLit: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js   
 Cengage: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js
+DuoLinguo: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/MatchBlocker.user.js   
+https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/Duolingo-Cheat-Tool.user.js   
+https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNext.user.js   
