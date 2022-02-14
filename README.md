@@ -11,7 +11,7 @@ https://lunaunlock.herokuapp.com/
 AutoUnblocker: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/AutoUnblocker.user.js   
 Edgenuity: https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js   
 CommonLit: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js   
-Cengage: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js
+Cengage: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js   
 DuoLinguo: https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/MatchBlocker.user.js   
 https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/Duolingo-Cheat-Tool.user.js   
 https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNext.user.js   
