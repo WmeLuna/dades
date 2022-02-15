@@ -4,7 +4,7 @@
 powershell iex ((New-Object System.Net.WebClient).DownloadString('https://wmeluna.com/sc/brave.ps1'))
 ```
 ### unblockers   
-https://womginx.wmeluna.repl.co/   
+https://unlock.wmeluna.com/   
 https://lunadisco.herokuapp.com/   
 https://lunaunlock.herokuapp.com/   
 ### HW scripts
