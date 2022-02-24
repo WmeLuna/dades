@@ -12,4 +12,5 @@ AutoUnblocker: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main
 Edgenuity: [Install](https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js)   
 CommonLit: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/CommonLitPreAssessAnswer.user.js)   
 Cengage: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js)   
+Khan Academy: [Install](https://github.com/adubov1/khanacademy_bot/raw/main/khanacademy_revealer.user.js) (answers show in console.. Ctrl+Shift+J)   
 DuoLinguo:  [Install MatchBlocker](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/MatchBlocker.user.js)  [Install Duolingo Chea* Tool](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/Duolingo-Cheat-Tool.user.js)  [Install DuoNext](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNext.user.js)   
