@@ -17,3 +17,4 @@ DuoLinguo:  [Install MatchBlocker](https://github.com/WmeLuna/Dadeschools-Script
 
 ### Theme Scripts
 Discord on Unblocker: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/themes/AutoDiscordTheme.user.js)   
+Netacad: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/themes/NetacadTheme.user.js)
