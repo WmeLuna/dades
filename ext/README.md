@@ -6,4 +6,5 @@ ruffle: https://github.com/WmeLuna/dades/raw/main/ext/ruffle.zip
 stylebot: https://github.com/WmeLuna/dades/raw/main/ext/stylebot.zip   
 tampermonkey: https://github.com/WmeLuna/dades/raw/main/ext/tampermonkey.zip   
 custom theme: https://github.com/WmeLuna/dades/raw/main/ext/theme.zip   
+DarkPurple chrome theme: https://github.com/WmeLuna/dades/raw/main/ext/DarkPurple.zip    
 ublock origin: https://github.com/WmeLuna/dades/raw/main/ext/uBlock.zip
