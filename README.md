@@ -14,7 +14,7 @@ CommonLit: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/Com
 Cengage: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/HideCorrect.user.js)   
 Khan Academy: [Install](https://github.com/adubov1/khanacademy_bot/raw/main/khanacademy_revealer.user.js) (answers show in console.. Ctrl+Shift+J)   
 Brainly Answer Unlocker: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/BrainlyUnlocker.user.js)   
-DuoLinguo:  [Install MatchBlocker](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/MatchBlocker.user.js)  [Install Duolingo Chea* Tool](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/Duolingo-Cheat-Tool.user.js)  [Install DuoNext](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNext.user.js)   
+DuoLinguo:  [Install MatchBlocker](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/MatchBlocker.user.js)  [Install Duolingo Chea* Tool](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/Duolingo-Cheat-Tool.user.js)  [Install DuoNext](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNext.user.js)  [Install DuoNextTopic](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/duo/DuoNextTopic.user.js)   
 
 ### Theme Scripts
 Discord on Unblocker: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/themes/AutoDiscordTheme.user.js)   
