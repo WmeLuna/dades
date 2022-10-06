@@ -1,10 +1,10 @@
 # ZIP file extensions
-dark reader: https://github.com/WmeLuna/dades/raw/main/ext/darkreader-chrome.zip   
-chrome extentsion downloader: https://github.com/WmeLuna/dades/raw/main/ext/extension%20viewer.zip   
-nighttab: https://github.com/WmeLuna/dades/raw/main/ext/nighttab.zip   
-ruffle: https://github.com/WmeLuna/dades/raw/main/ext/ruffle.zip   
-stylebot: https://github.com/WmeLuna/dades/raw/main/ext/stylebot.zip   
-tampermonkey: https://github.com/WmeLuna/dades/raw/main/ext/tampermonkey.zip   
-custom theme: https://github.com/WmeLuna/dades/raw/main/ext/theme.zip   
-DarkPurple chrome theme: https://github.com/WmeLuna/dades/raw/main/ext/DarkPurple.zip    
-ublock origin: https://github.com/WmeLuna/dades/raw/main/ext/uBlock.zip
+dark reader: [zip](https://github.com/WmeLuna/dades/raw/main/ext/darkreader-chrome.zip)   
+chrome extentsion downloader: [zip](https://github.com/WmeLuna/dades/raw/main/ext/extension%20viewer.zip)   
+nighttab: [zip](https://github.com/WmeLuna/dades/raw/main/ext/nighttab.zip)   
+ruffle: [zip](https://github.com/WmeLuna/dades/raw/main/ext/ruffle.zip)   
+stylebot: [zip](https://github.com/WmeLuna/dades/raw/main/ext/stylebot.zip)   
+tampermonkey: [zip](https://github.com/WmeLuna/dades/raw/main/ext/tampermonkey.zip)   
+custom theme: [zip](https://github.com/WmeLuna/dades/raw/main/ext/theme.zip)   
+DarkPurple chrome theme: [zip](https://github.com/WmeLuna/dades/raw/main/ext/DarkPurple.zip)    
+ublock origin: [zip](https://github.com/WmeLuna/dades/raw/main/ext/uBlock.zip)
