@@ -5,8 +5,6 @@ powershell iex ((New-Object System.Net.WebClient).DownloadString('https://wmelun
 ```
 ### unblockers   
 https://unlock.wmeluna.com/   
-https://lunadisco.herokuapp.com/   
-https://lunaunlock.herokuapp.com/   
 ### HW scripts (tampermonkey needed)
 AutoUnblocker: [Install](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/AutoUnblocker.user.js) [Install (UnProxy to fix some unblocked sites)](https://github.com/WmeLuna/Dadeschools-Scripts/raw/main/AutoUnProxy.user.js)   
 Edgenuity: [Install](https://gitlab.com/roglemorph/edgentweaks/-/raw/master/edgentweaks.user.js)   
